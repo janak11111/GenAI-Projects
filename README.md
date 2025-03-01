@@ -6,7 +6,7 @@ Welcome to the **Gen-AI Projects Repository**! 🚀 This repository houses cutti
 
 ## Projects Overview
 
-### 1. **LLM Chatbots with LLaMA3 with LangChain**
+### 1. **LLM Chatbots with Gemma2 with LangChain**
 
 Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 - Handle complex user queries.
@@ -17,12 +17,12 @@ Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 
 ### 2. **Advanced QA Chatbot with LLM and RAG Using**
 
-This project combines **LLaMA3** with **Retrieval-Augmented Generation (RAG)** to deliver an advanced question-answering system that:
+This project combines **Mistral** with **Retrieval-Augmented Generation (RAG)** to deliver an advanced question-answering system that:
 - Retrieves the most relevant context from a knowledge base.
 - Provides accurate and concise answers.
 - Excels at handling domain-specific queries.
 - Integrated vector search for lightning-fast retrieval
-- Chroma and FAISS VectorStore Used with LLaMA-3 LLM
+- Chroma and FAISS VectorStore Used with Mistral LLM
 ---
 
 ### 3. **Multisource QA System with LLM Agents**
