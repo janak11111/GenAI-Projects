@@ -6,7 +6,7 @@ Welcome to the **Gen-AI Projects Repository**! 🚀 This repository houses cutti
 
 ## Projects Overview
 
-### 1. **LLM Chatbots Using LLaMA3 with LangChain**
+### 1. **LLM Chatbots with LLaMA3 with LangChain**
 
 Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 - Handle complex user queries.
