@@ -6,7 +6,7 @@ Welcome to the **Gen-AI Projects Repository**! 🚀 This repository houses cutti
 
 ## Projects Overview
 
-### 1. **QueryGemma: Personalized Assistant for User Queries **
+### 1. **QueryGemma: Personalized Assistant for User Queries**
 
 Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 - Handle complex user queries.
