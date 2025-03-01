@@ -6,7 +6,7 @@ Welcome to the **Gen-AI Projects Repository**! 🚀 This repository houses cutti
 
 ## Projects Overview
 
-### 1. **LLM Chatbots with Gemma2 with LangChain**
+### 1. **QueryGemma: Personalized Assistant for User Queries **
 
 Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 - Handle complex user queries.
@@ -15,21 +15,21 @@ Unleash the potential of LLaMA3 with LangChain to build versatile chatbots that:
 
 ---
 
-### 2. **Advanced QA Chatbot with LLM and RAG Using**
+### 2. **RAG Enhanced LLM for Document Query Resolution**
 
 This project combines **Mistral** with **Retrieval-Augmented Generation (RAG)** to deliver an advanced question-answering system that:
 - Retrieves the most relevant context from a knowledge base.
 - Provides accurate and concise answers.
-- Excels at handling domain-specific queries.
+- Excel at handling domain-specific queries.
 - Integrated vector search for lightning-fast retrieval
 - Chroma and FAISS VectorStore Used with Mistral LLM
 ---
 
-### 3. **Multisource QA System with LLM Agents**
+### 3. **Multi-Source Question Answering System with LLM Agents**
 
 Experience the next level of question answering with LLaMA3-powered agents capable of:
 - Sourcing information from multiple domains and APIs.
-- Combining insights from various data sources like Wikipedia, Arxiv, Webpages into a unified response.
+- Combining insights from various data sources like Wikipedia, Arxiv, and Webpages into a unified response.
 - Dynamically adapting to user needs through intelligent agent workflows.
 - Agent-based architecture for enhanced modularity.
 
