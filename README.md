@@ -35,14 +35,6 @@ Experience the next level of question answering with LLaMA3-powered agents capab
 
 ---
 
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/LLM-Chatbot-Projects.git
-   cd LLM-Chatbot-Projects
-   ```
-
 ## Contact
 
 For inquiries or feedback, reach out via email: **kapuriyajanak12@gmail.com**.
